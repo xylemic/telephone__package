@@ -87,4 +87,4 @@ console.log(telephone.getEventHistory({ type: 'dial' }));
 This project is licensed under the MIT License.
 
 ## Author
-[Daniel Johnson]
+Daniel Johnson
